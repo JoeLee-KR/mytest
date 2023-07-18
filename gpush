@@ -1,7 +1,0 @@
-_MSG=`date "+%y%m%d-%H%M"`
-_HOST=`hostname -s`
-git add . && git commit -m $_HOST:$_MSG
-git push git@gitjoe:joelee-kr/mytest.git
-#
-#git push       git@gitjoe:joelee-kr/mytest.git 
-#git push -u -f git@gitjoe:joelee-kr/mytest.git main
