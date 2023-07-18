@@ -1,7 +1,0 @@
-git pull git@gitjoe:joelee-kr/mytest.git main
-#
-#git pull -f  git@gitjoe:joelee-kr/mytest.git 
-#git pull -f  git@gitjoe:joelee-kr/mytest.git main
-#
-#
-#git -f -u
