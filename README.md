@@ -1,3 +1,3 @@
 # mytest, for test git & github
 hello dont use this md file...
-this is test message... (from github)
+this is test message... (from github), w a joe.
