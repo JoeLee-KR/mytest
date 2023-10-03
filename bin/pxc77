@@ -1,0 +1,3 @@
+"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
+  --user-data-dir="$HOME/proxy-profile-pxi77" \
+  --proxy-server="http://192.168.18.77:3128"
