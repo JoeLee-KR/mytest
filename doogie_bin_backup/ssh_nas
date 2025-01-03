@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh doogie@nas -p 2222
