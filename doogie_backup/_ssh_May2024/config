@@ -1,8 +1,0 @@
-Host gitjoe
-  HostName github.com
-  User git
-  IdentityFile ~/.ssh/idrsa_joe
-Host gitjung
-  HostName github.com
-  User git
-  IdentityFile ~/.ssh/idrsa_jung
