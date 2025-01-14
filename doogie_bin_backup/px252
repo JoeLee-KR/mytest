@@ -1,5 +1,0 @@
-"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome" \
-  --user-data-dir="$HOME/proxy-profile-px252" \
-  --proxy-server="http://palm252:9128"
-#  --proxy-server="http://175.120.42.116:9128"
-#  --proxy-server="http://palm252:9128"

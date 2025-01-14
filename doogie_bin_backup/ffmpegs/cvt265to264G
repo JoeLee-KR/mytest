@@ -1,6 +1,0 @@
-  echo "#######################################################"
-  echo "Convert mkv to mp4"
-  echo "Source: $1"
-  echo "Target: ${1%.*}.mp4"
-  echo "#######################################################"
-  ffmpeg -i "$1" -c:v h264_videotoolbox -b:v 5000k -c:a aac "${1%.*}.mp4"

@@ -1,2 +1,0 @@
-# reduce size, mp4
-ffmpeg -r 12 -i INPUT.mp4 -c:v libx265 -crf 24 -vf format=yuv420p -c:a aac OUTPUT.mp4
