@@ -1,0 +1,5 @@
+#!/bin/bash
+
+dirname=${PWD##*/}
+echo ">> git remote add origin with git@gitJoe:JoeLee-KR/"$dirname".git"
+gitset gitjoe JoeLee-KR $dirname

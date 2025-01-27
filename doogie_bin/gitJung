@@ -1,0 +1,5 @@
+#!/bin/bash
+
+dirname=${PWD##*/}
+echo ">> git remote add origin with git@gitJung:Jungminlee-KR/"$dirname".git"
+gitset gitjung Jungminlee-KR $dirname
