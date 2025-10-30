@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ $# == 1 ]; then
+    dirname=${PWD##*/}
+    echo ">> git remote add origin with git@gitJoe:JoeLee-KR/"$dirname".git"
+    gitSet gitjoe JoeLee-KR $dirname
+else
+    echo ">> Usage: gitJoe repo_name"
+fi
