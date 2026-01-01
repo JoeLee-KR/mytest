@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# 호스트명과 타임스탬프 생성
+_HOST=$(hostname -s)
+_MSG=$(date "+%y%m%d-%H%M")
+
+# 사용자 메시지 받기 (있으면 추가, 없으면 생략)
+_CMSG="$*"
+
+# 커밋 메시지 구성
+if [ -n "$_CMSG" ]; then
+    # 메시지가 있는 경우: 호스트:시간:메시지
+    COMMIT_MSG="$_HOST:$_MSG:$_CMSG"
+else
+    # 메시지가 없는 경우: 호스트:시간
+    COMMIT_MSG="$_HOST:$_MSG"
+fi
+
+# Git 작업 수행
+git add . && git commit -m "$COMMIT_MSG"
