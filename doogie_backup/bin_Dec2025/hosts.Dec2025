@@ -10,7 +10,12 @@
 
 ### JOE
 # HOME public IP
-175.125.54.69	joe 	joehomeap		nas.underslow.com
+175.125.54.69	nxclabs     nxc
+192.168.75.19   nxclabsi    nxci
+# nxclabs: 9922
+175.125.54.69	turrlabs    turr
+192.168.75.19   turri    
+# turrlabs: 9922
 
 # HOME private IP
 192.168.19.61	rp2
@@ -19,12 +24,15 @@
 192.168.19.64	rp4w
 192.168.19.65	rp44
 192.168.19.66	rp44w
-192.168.19.20	nyx
-192.168.19.21	nyxwifi
-192.168.19.22	nyxwifisecu
-192.168.19.9	nas	doogienas
+# rp44:  7722
+192.168.19.20	emma
+192.168.19.21	emmaw
+192.168.19.22	emmaws
+192.168.19.9	nas	    doogienas
 192.168.19.7	epson
 192.168.19.8	doogieiptv
+192.168.19.91	emma01
+# emma01: 6622
 
 
 # SKB Servers 
@@ -35,13 +43,15 @@
 1.225.22.52     nexus   nexus.underslow.com
 1.225.22.52	da1w	da1_nexus
 
-# HP600G2 at office / prom0909!!
-175.120.42.116	palm252	joeofficeap	palmmysqldb	palmsquid
-#175.123.161.58	palm252	joeofficeap
-#175.120.42.106	palm252	joeofficeap
-192.168.17.1	wifiap	A704NS-BCM
+# HP600G2 at office 
+# oasis,mysqlroot:VN--00!!, mysql-palmadm:vka3306!!, mysql-palm00:vkavka3306!!
+# 9306>3306 at palm252, 3306 at p252
 10.240.75.252	i252
-192.168.17.252	p252
+192.168.17.252	palm252i		
+192.168.17.252	nxcskbi     nxcducki
+175.120.42.116  nxcskb      nxcduck
+175.120.42.116	palm252p	palm252		joeofficeap	palmmysqldb	palmsquid
+192.168.17.1	wifiap	A704NS-BCM
 
 # at local parallels, test proxy
 10.211.55.22	u22	wp.underslow.com

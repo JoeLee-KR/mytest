@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh oasis@palm252i -p 8022

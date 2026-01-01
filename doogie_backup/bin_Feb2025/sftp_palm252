@@ -1,0 +1,2 @@
+#!/bin/bash
+sftp -P 8022 oasis@palm252 

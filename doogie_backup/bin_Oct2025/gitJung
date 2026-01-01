@@ -1,0 +1,5 @@
+#!/bin/bash
+# must use at local repository
+dirname=${PWD##*/}
+echo ">> git remote add origin with git@gitJung:Jungminlee-KR/"$dirname".git"
+gitSet gitjung Jungminlee-KR $dirname
