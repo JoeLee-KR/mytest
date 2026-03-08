@@ -1,0 +1,10 @@
+<application>
+  <component name="UISettings">
+    <option name="DISABLE_MNEMONICS" value="false" />
+    <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
+    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="59" />
+    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="59" />
+    <option name="UI_DENSITY" value="COMPACT" />
+  </component>
+</application>
