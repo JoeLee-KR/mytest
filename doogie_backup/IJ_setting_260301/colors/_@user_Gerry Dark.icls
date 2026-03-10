@@ -1,0 +1,120 @@
+<scheme name="_@user_Gerry Dark" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2025.1.3.0.0</property>
+    <property name="originalScheme">Gerry Dark</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.jetbrains.gerryPurpleTheme</property>
+  </metaInfo>
+  <option name="LINE_SPACING" value="1.05" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
+  <option name="EDITOR_FONT_NAME" value="D2Coding" />
+  <option name="CONSOLE_FONT_NAME" value="D2Coding" />
+  <colors>
+    <option name="CARET_ROW_COLOR" value="2E2E33" />
+    <option name="FILESTATUS_NOT_CHANGED" value="AFB9C3" />
+    <option name="FILESTATUS_SUPPRESSED" value="AFB9C3" />
+  </colors>
+  <attributes>
+    <option name="ANGLE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="e4b474" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
+      <value>
+        <option name="BACKGROUND" value="b264c7" />
+        <option name="EFFECT_COLOR" value="c76dc7" />
+      </value>
+    </option>
+    <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+      <value>
+        <option name="BACKGROUND" value="b264c7" />
+      </value>
+    </option>
+    <option name="DEFAULT_BLOCK_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a0a0a0" />
+      </value>
+    </option>
+    <option name="DEFAULT_DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a0a0a0" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="e4b474" />
+      </value>
+    </option>
+    <option name="DEFAULT_FUNCTION_DECLARATION">
+      <value>
+        <option name="FOREGROUND" value="e4b474" />
+      </value>
+    </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="e4b474" />
+      </value>
+    </option>
+    <option name="DEFAULT_LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a0a0a0" />
+      </value>
+    </option>
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
+      <value>
+        <option name="FOREGROUND" value="8aa08" />
+      </value>
+    </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="7050a0" />
+        <option name="ERROR_STRIPE_COLOR" value="463264" />
+      </value>
+    </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="a0a0a0" />
+        <option name="BACKGROUND" value="3b3b3b" />
+      </value>
+    </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="MARK_COMMENT_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="49b139" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="4be034" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ROUND_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="e4b474" />
+      </value>
+    </option>
+    <option name="SQUARE_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="e4b474" />
+      </value>
+    </option>
+    <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="e4b474" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

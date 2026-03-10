@@ -1,0 +1,7 @@
+org.jetbrains.completion.full.line
+com.jetbrains.gerryPurpleTheme
+org.jetbrains.junie
+com.intellij.ml.llm
+izhangzhihao.rainbow.brackets
+com.nasller.CodeGlancePro
+com.mallowigi

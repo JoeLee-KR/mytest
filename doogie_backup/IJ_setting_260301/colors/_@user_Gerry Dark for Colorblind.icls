@@ -1,0 +1,38 @@
+<scheme name="_@user_Gerry Dark for Colorblind" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">Python</property>
+    <property name="ideVersion">2025.1.6.0.0</property>
+    <property name="originalScheme">Gerry Dark for Colorblind</property>
+    <property name="partialSave">true</property>
+    <property name="pluginId">com.jetbrains.gerryPurpleTheme</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="85E89D" />
+    <option name="FILESTATUS_DELETED" value="959DA5" />
+    <option name="FILESTATUS_HIJACKED" value="B392F0" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="DBEDFF" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="F97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="F97583" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="F97583" />
+    <option name="FILESTATUS_MERGED" value="B392F0" />
+    <option name="FILESTATUS_MODIFIED" value="79B8FF" />
+    <option name="FILESTATUS_NOT_CHANGED" value="AFB9C3" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="79B8FF" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="79B8FF" />
+    <option name="FILESTATUS_OBSOLETE" value="959DA5" />
+    <option name="FILESTATUS_SUPPRESSED" value="959DA5" />
+    <option name="FILESTATUS_SWITCHED" value="FFAB70" />
+    <option name="FILESTATUS_UNKNOWN" value="FFAB70" />
+  </colors>
+  <attributes>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value />
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="284e55" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
