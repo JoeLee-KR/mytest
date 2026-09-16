@@ -1,0 +1,2 @@
+#!/bin/bash
+ssh doogie@emmai -p 22

@@ -1,0 +1,1 @@
+ffprobe -print_format json -show_entries stream=index,codec_name,codec_type "$1"

@@ -1,0 +1,20 @@
+if [[ -z $1 ]]; then
+  EXTNAME="mp4"
+else
+  EXTNAME=$1
+fi
+
+echo "#######################################################"
+echo "Convert hevc to h.264" "with " $EXTNAME
+echo "#######################################################"
+
+for i in *.mkv; do
+  #echo "#######################################################"
+  #echo "SOURCE: "  $i
+  #echo "TATGET: "  ${i%.*}.$EXTNAME
+  #echo "#######################################################"
+  ~/opt/bin/cvtone "$i" "${i%.*}.$EXTNAME"
+  #echo "S:$i" 
+  #echo "T:${i%.*}.${EXTNAME}"
+done
+

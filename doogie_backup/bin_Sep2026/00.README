@@ -1,0 +1,5 @@
+1. must use 'gitJoe' or 'gitJung' at local repository directory
+  - set remote origin with current directory name
+  - remote origin is Joelee-KR or Jungminlee-KR 
+2. use 'gac' to git add + commit
+3. use 'git push' to git psuh

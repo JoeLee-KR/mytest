@@ -1,0 +1,3 @@
+#!/bin/bash
+#ssh doogie@rp44 -p 7722
+ssh doogie@rp44 

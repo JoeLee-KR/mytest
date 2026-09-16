@@ -1,0 +1,6 @@
+  echo "#######################################################"
+  echo "Convert mkv to mp4"
+  echo "Source: $1"
+  echo "Target: ${1%.*}.mp4"
+  echo "#######################################################"
+  ffmpeg -i "$1" -c:v libx264 -crf 24 -vf format=yuv420p -c:a aac "${1%.*}.mp4"

@@ -1,0 +1,18 @@
+#!/bin/bash
+
+if [ $# == 3 ]; then
+    echo ">> git remote remove origin"
+    git remote remove origin
+    echo ">> git remote add origin with git@"$1":"$2"/"$3".git"
+    git remote add origin git@$1":"$2"/"$3".git"
+#    git branch --set-upstream-to=origin/main main
+    echo ">> current git remote"
+    git remote -v
+    echo ">> use to pull and set upstream: git branch --set-upstream-to=origin/main main"
+    
+else
+    echo ">> Usage: gitSet ssh-key_name git_name repo_name"
+fi
+
+#    git config --global push.default current
+#    git branch --set-upstream-to=origin/main main

@@ -1,0 +1,6 @@
+  echo "#######################################################"
+  echo "Source: $1"
+  echo "Target: $2"
+  echo "#######################################################"
+  ffmpeg -i "$1" -loglevel 32 -c:v libx264 -crf 24 -vf format=yuv420p -c:a copy "$2"
+  #echo "ffmepg: " "$1" " >> " "$2"
